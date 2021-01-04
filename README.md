@@ -24,8 +24,6 @@
 
 <p>
      <img src="./assets/7-2-technologies.png" width="250">
-</p>
-<p>
   <a href="https://nodejs.org/en/docs/"><img src="./assets/7-4-tool-node.png" alt="nodejs" width="80"></a>
   <a href="https://docs.mongodb.com/"><img src="./assets/7-5-tool-mongo.png" alt="mongodb" width="60"></a>
   <a href="https://devcenter.heroku.com/categories/reference"><img src=".\assets\7-6-tool-heroku.png" alt="heroku" width="60"></a>
@@ -47,7 +45,7 @@
 
 </br>
 
-
+<img src="https://komarev.com/ghpvc/?username=marianavns" alt="marianavns" />
 
 <img src="./assets/15-footer.png">
 
