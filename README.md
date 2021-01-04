@@ -14,7 +14,7 @@
 </br>
 
 <p>
-    <img src="./assets/7-1-languages.png" width="280">
+    <img src="./assets/7-1-languages.png" width="250">
 <a href="https://github.com/marianavns">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianavns&hide_border=true&langs_count=10&layout=compact&custom_title=Most%20%Used" width="450" />
 </a>
@@ -23,17 +23,23 @@
 
 
 <p>
-     <img src="./assets/7-2-technologies.png" width="280">
+     <img src="./assets/7-2-technologies.png" width="250">
   <a href="https://nodejs.org/en/docs/"><img src="./assets/7-4-tool-node.png" alt="nodejs" width="95"></a>
-  <a href="https://docs.mongodb.com/"><img src="./assets/7-5-tool-mongo.png" alt="mongodb" width="80"></a>
-  <a href="https://devcenter.heroku.com/categories/reference"><img src=".\assets\7-6-tool-heroku.png" alt="heroku" width="60"></a>
-  <a href="https://git-scm.com/doc"><img src="./assets/7-7-tool-git.png" alt="git" width="70"></a>
-  <a href="https://learning.postman.com/docs/getting-started/introduction/"><img src="./assets/7-8-tool-postman.png" alt="postman" width="60"></a>
-  <a href="(https://support.microsoft.com/en-us/excel"><img src="./assets/7-9-tool-excel.png" alt="excel" width="80"></a>
-  <img src="./assets/7-20-learning.png" alt="learning" width="150"></a>
+  <a href="https://docs.mongodb.com/"><img src="./assets/7-5-tool-mongo.png" alt="mongodb" width="70"></a>
+  <a href="https://devcenter.heroku.com/categories/reference"><img src=".\assets\7-6-tool-heroku.png" alt="heroku" width="50"></a>
+  <a href="https://git-scm.com/doc"><img src="./assets/7-7-tool-git.png" alt="git" width="60"></a>
+  <a href="https://learning.postman.com/docs/getting-started/introduction/"><img src="./assets/7-8-tool-postman.png" alt="postman" width="50"></a>
+  <a href="(https://support.microsoft.com/en-us/excel"><img src="./assets/7-9-tool-excel.png" alt="excel" width="70"></a>
+  <img src="./assets/7-20-learning.png" alt="learning" width="120"></a>
  </p>
 
 
+
+
+
+
+
+<img src="./assets/15-footer.png">
 
 
 
