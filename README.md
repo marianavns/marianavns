@@ -17,15 +17,17 @@
 </a>
 </p>
 
-
-
-
-
 <p align="center">
-<img src="./assets/7-2-technologies.png" width="100%">
-</p>
-<p align="center">
-| [<img src=".\assets\7-4-tool-node.png" alt="nodejs" width="80">](https://nodejs.org/en/docs/) |  [<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" alt="mongodb" width="80">](https://docs.mongodb.com/) | [<img src=".\assets\7-6-tool-heroku.png" alt="heroku" width="60">](https://devcenter.heroku.com/categories/reference) |  [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="70">](https://git-scm.com/doc) | [<img src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" alt="postman" width="60">](https://learning.postman.com/docs/getting-started/introduction/) | [<img src="https://cdn1.iconfinder.com/data/icons/famous-brand-apps/100/_-04-512.png" alt="Excel" width="80">](https://support.microsoft.com/en-us/excel) | <img src="https://i.imgur.com/kin5pEJ.png" width="120">
-|---|---|---|---|---|---|---|
+  <img src="./assets/7-2-technologies.png" width="100%">
+  <a href="https://nodejs.org/en/docs/"><img src="./assets/7-4-tool-node.png" alt="nodejs" width="80"></a>
+  <a href="https://docs.mongodb.com/"><img src="./assets/7-5-tool-mongo.png" alt="mongodb" width="80"></a>
+  <a href="https://devcenter.heroku.com/categories/reference"><img src=".\assets\7-6-tool-heroku.png" alt="heroku" width="60"></a>
+  <a href="https://git-scm.com/doc"><img src="./assets/7-7-tool-git.png" alt="git" width="70"></a>
+  <a href="https://learning.postman.com/docs/getting-started/introduction/"><img src="./assets/7-8-tool-postman.png" alt="postman" width="60"></a>
+  <a href="(https://support.microsoft.com/en-us/excel"><img src="./assets/7-9-tool-excel.png" alt="excel" width="80"></a>
+  <img src="./assets/7-20-learning.png" alt="learning" width="80"></a>
+ </p>
+
+
 
 
