@@ -11,14 +11,18 @@
   <a href="https://t.me/marianavns" target="_blank"> <img src="./assets/5-telegram-gif.gif" width="50"></a> 
   <a href="https://mariana-souza.netlify.app/curriculo.html" target="_blank"><img src="./assets/6-resume-png.png" width="50"></a>
 </p>
+_____
 
 
-<p>
-    <img src="./assets/7-0-languages.png" width="150">
+
+<p align="center">
 <a href="https://github.com/marianavns">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianavns&hide_border=true&langs_count=10&layout=compact&custom_title=Most%20%Used" width="450" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianavns&hide_border=true&langs_count=10&layout=compact&custom_title=Languages%20%Most%20%Used" width="450" />
 </a>
 </p>
+
+</br></br>
+
 
 <p>
      <img src="./assets/8-0-tools.png" width="160">
