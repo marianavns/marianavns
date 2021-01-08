@@ -9,8 +9,9 @@
   <a href="mailto:mariana.vns@gmail.com" target="_blank"><img src="./assets/3-email-gif.gif" width="50"></a>
   <a href="https://www.youtube.com/channel/UCOWtrj2sjK_37nOg11nTaYQ" target="_blank"> <img src="./assets/4-youtube-gif.gif" width="50"></a>
   <a href="https://t.me/marianavns" target="_blank"> <img src="./assets/5-telegram-gif.gif" width="50"></a> 
-  <a href="https://mariana-souza.netlify.app/curriculo.html" target="_blank"><img src="./assets/6-resume-png.png" width="50"></a> 
-_____
+  <a href="https://mariana-souza.netlify.app/curriculo.html" target="_blank"><img src="./assets/6-resume-png.png" width="50"></a>
+</p>
+
 
 <p>
     <img src="./assets/7-0-languages.png" width="150">
@@ -41,13 +42,45 @@ ______________________
      <img src="./assets/10-0-projects.png" width="200">
 </p>
 
-<p align="center">
-    </br>
-• <b>Central de Vereadores</b> •</br>
-  API com informações dos vereadores eleitos na cidade de Jaboatão dos Guararapes nas eleições de 2020.</br></br>
-• <b>Amiga, Help! </b> •</br>
-    API que reúne mulheres da área de tecnologia para solução de dúvidas. Projeto de conclusão do bootcamp @{reprograma}.
-  </p>
+
+<table>
+    <tbody>
+        <tr>
+            <td align="center" width="60%">
+                <b><center>Central de Vereadores</center></b></a>
+                <p><a href="https://github.com/marianavns/central-de-vereadores">API com informações dos vereadores eleitos</a> na cidade de Jaboatão dos Guararapes nas eleições de 2020.</p>
+                <img height=90 src="./assets/10-1-vereadores.png">
+            </td>
+            <td align="center" width="100%">
+                <b><center>Amiga, Help!</center></b>
+                <p><a href="https://github.com/marianavns/amiga-help">API que reúne mulheres da área de tecnologia</a> para solução de dúvidas. </br>Projeto de conclusão do bootcamp @{reprograma}.</p>
+                <img height=100 src="./assets/10-2-amigas.png">
+            </td>
+		</tr>
+		 <tr>
+            <td align="center" width="60%">
+                <b><center>To Do List</center></b>
+                <p><a href="https://github.com/marianavns/nodejs-api-rest-authentication">API para gerenciar tarefas</a> a serem feitas num projeto em equipe ou individual.</p>
+                <img height=70 src="./assets/10-3-to-do-list.png">
+            </td>
+            <td align="center" width="100%">
+                <b><center>Gerenciamento de Livraria</center></b>
+                <p><a href="https://github.com/marianavns/rest-api-project-3-mongo">API que gerencia estoque e venda de livros e colaboradores</a> de uma livraria.</p>
+                <img height=100 src="./assets/10-4-books.png">
+            </td>
+		</tr>
+        <tr>
+            <td align="center" width="50%">
+                <b><center>Página de login do Instagram</center></b>
+                <p><a href="https://github.com/marianavns/rest-api-project-3-mongo">Réplica da página de login</a> do Instagram</p>
+                <img height=70 src="./assets/10-5-instagram.png">
+            </td>
+        </tr>
+	</tbody>
+</table>
+
+
+
 
 
 
