@@ -75,7 +75,7 @@ ______________________
         <tr>
             <td align="center" width="50%">
                 <b><center>Página de login do Instagram</center></b>
-                <p><a href="https://github.com/marianavns/rest-api-project-3-mongo">Réplica da página de login</a> do Instagram</p>
+                <p><a href="https://github.com/marianavns/instagram-login-page">Réplica da página de login</a> do Instagram</p>
                 <img height=70 src="./assets/10-5-instagram.png">
             </td>
         </tr>
