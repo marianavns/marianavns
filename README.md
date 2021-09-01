@@ -33,7 +33,7 @@
   <a href="mailto:mariana.vns@gmail.com" target="_blank"><img src="./assets/3-email-gif.gif" width="40"></a>
   <a href="https://www.youtube.com/channel/UCOWtrj2sjK_37nOg11nTaYQ" target="_blank"> <img src="./assets/4-youtube-gif.gif" width="40"></a>
   <a href="https://t.me/marianavns" target="_blank"> <img src="./assets/5-telegram-gif.gif" width="40"></a> 
-  <a href="https://mariana-souza.netlify.app/curriculo.html" target="_blank"><img src="./assets/6-resume-png.png" width="40"></a>
+  <a href="https://rxresu.me/r/76o1xn" target="_blank"><img src="./assets/6-resume-png.png" width="40"></a>
 </p>
 
 
